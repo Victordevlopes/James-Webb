@@ -1,2 +1,2 @@
-# James-Webb
- primeiro repositrório do curso git e guithub
+# James Webb
+ primeiro repositrório do curso em video git e guithub!
